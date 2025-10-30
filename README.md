@@ -1,2 +1,2 @@
-# aster-rs
-aster dex rust sdk
+# 📈 aster-sdk
+Aster DEX SDK, A wrapper for the Aster DEX API.
